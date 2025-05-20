@@ -1,2 +1,2 @@
 # PBHigman
-Implementation of the PatternBoost algorithm to determine whether or not the Higman group might be sofic.
+Application of the PatternBoost algorithm to determine the potential soficity of the Higman group.
